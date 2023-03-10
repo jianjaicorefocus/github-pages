@@ -46,7 +46,7 @@ git push origin master
 
 ![step6](https://i.imgur.com/P8FEKvT.png)
 
-### 8. Go to the directory where you saved your whole project on HTML/CSS with your CV. Go to the VS Code terminal, and insert the cd "<path-to-CV-folder>" command.
+### 8. Go to the directory where you saved your whole project on HTML/CSS with your CV. Go to the VS Code terminal, and insert the cd "path-to-CV-folder" command.
 
 ### 9. Make sure you are in the correct directory. Perform the following commands in the directory with your CV:
 
